@@ -1,0 +1,152 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0px;
+}
+
+body {
+  background-color: black;
+  background-size: 100vw auto;
+  margin: 0px;
+}
+
+.login-btn {
+  height: 50px;
+  width: 130px;
+  color: #fff;
+  border-radius: 10px;
+  background: rgb(231, 174, 236);
+  border: none;
+  font-size: 30px;
+  transition: 0.5s;
+
+}
+
+.login-form {
+  border: 4px solid black;
+  width: 25%;
+  align-items: center;
+  border-radius: 10px;
+  display: grid;
+  margin-top: 10%;
+  margin-left: 10%;
+  padding: 50px;
+  margin-top: 10px;
+  margin: 2px;
+
+}
+
+.login-fom1 {
+  width: 100%;
+  height: 100vh;
+}
+
+.login-btn {
+  width: "100px";
+  height: 50px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: green;
+  margin-left: 100px;
+  color: black;
+
+}
+
+.login-btn:hover {
+  background-color: red;
+  color: white;
+}
+
+.sneat-logo1 {
+  align-items: center;
+  text-align: center;
+  color: black;
+  font-size: x-large;
+  font-weight: 900;
+  margin-left: 110px;
+}
+
+.sneat-logo {
+  color: black;
+  font-size: larger;
+  font-weight: 700;
+
+}
+.nav-links {
+  background-color: white;
+  margin-top: 30px;
+  position: absolute;
+  right: 100px;
+  width: 80%;
+  height: 60px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.nav-links Button a {
+  text-decoration: none;
+  color: white;
+
+}
+
+.text-wrap Button a {
+  text-decoration: none;
+  color: white;
+
+}
+
+.nav-links Button {
+  margin-top: 5px;
+  margin-left: 5px;
+  height: 50px;
+
+}
+
+.nav-links li {
+  display: inline-block;
+  padding: 10px;
+
+
+}
+
+.nav-links {
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  margin-top: 20px;
+  display: flex;
+  background-color: rgb(36, 160, 160);
+  width: 60vh;
+  height: 90vh;
+  box-shadow: rgba(10, 10, 117, 0.25) 0px 13px 27px -5px, rgba(80, 77, 77, 0.3) 0px 8px 16px -8px;
+
+}
+
+table head{
+  background-color: blueviolet;
+}
+
+tbody td {
+  border: 1px solid rebeccapurple;
+}
+
+
+.fc-col-header-cell-cushion {
+  color: whitesmoke;
+}
+
+.modal-header{
+  background-color:rgb(190, 155, 223);
+}
+.close{
+  background-color: rgb(41, 58, 209);
+  color: white;
+}
+
+/* ............................................. */
